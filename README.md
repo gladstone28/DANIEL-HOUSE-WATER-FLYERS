@@ -11,4 +11,4 @@ Please repeat the previous promotional flyer featuring a cool, refreshing bottle
 ![](./A-promotional-flyer-featuring-a-cool-refreshing-bottle-of-water-with-condensation-droplets-on-the-surface-The-bottle-is-placed-in-the-foreground-in.webp)
 
 Please give me another flyer promoting bottled water. The flyer should features a cool, refreshing bottle of water with condensation droplets, placed in front of a sunny outdoor with the portrait of a Jamaican. Put a subtle reddish color in the image.
-![](./'DALL·E 2024-08-17 06.05.31 - A promotional flyer featuring a cool, refreshing bottle of water with condensation droplets on the surface. The bottle is placed in the foreground of .webp')
+![](./bottle-with-young-lady.webp)
