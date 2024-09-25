@@ -14,3 +14,11 @@ Please repeat the previous promotional flyer featuring a cool, refreshing bottle
 
 Please give me another flyer promoting bottled water. The flyer should features a cool, refreshing bottle of water with condensation droplets, placed in front of a sunny outdoor with the portrait of a Jamaican. Put a subtle reddish color in the image.
 ![](./bottle-with-young-lady.webp)
+
+This is another
+
+![](./bottle-with-young-man.webp)
+
+Cases can be pre=ordered
+
+![](./pre-order-case-bottled-water.webp)
