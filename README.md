@@ -19,6 +19,6 @@ This is another
 
 ![](./bottle-with-young-man.webp)
 
-Cases can be pre=ordered
+Cases can be pre-ordered
 
 ![](./pre-order-case-bottled-water.jpeg)
