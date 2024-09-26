@@ -21,4 +21,4 @@ This is another
 
 Cases can be pre=ordered
 
-![](./pre-order-case-bottled-water.webp)
+![](./pre-order-case-bottled-water.jpeg)
